@@ -1,9 +1,6 @@
 # CareerDoc-Resume-Builder-for-Professional-Excellence
 CareerDoc Smart Resume Builder is a web-based application that helps users create professional resumes by entering personal details, education, skills, and projects. It provides features like template selection, live preview, form validation, draft saving with local storage, and resume download using HTML, CSS, and JavaScript.
 
-# CareerDoc Smart Resume Builder
-
-CareerDoc Smart Resume Builder is a web-based application designed to help users create professional resumes easily. The system allows users to enter personal details, education, skills, and projects, and generates a structured resume with a live preview.
 
 ## Features
 - Resume template selection
