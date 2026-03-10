@@ -20,8 +20,6 @@ CareerDoc Smart Resume Builder is a web-based application that helps users creat
 CareerDoc-Resume-Builder
 │
 ├── index.html  
-├── style.css  
-├── script.js  
 └── README.md  
 
 ## Purpose of the Project
